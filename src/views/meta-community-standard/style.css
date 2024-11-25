@@ -13,7 +13,7 @@
   }
 }
 .container_meta {
-  margin-bottom: 50px;
+  padding-bottom: 50px;
 }
 
 .right_div {
@@ -22,7 +22,7 @@
   background-color: white;
   margin-top: 100px;
   width: 35%;
-  padding: 40px 0 20px 0;
+  padding: 40px 0 10px 0;
 }
 
 .avt {
